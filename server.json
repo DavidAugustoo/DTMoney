@@ -4,7 +4,7 @@
             "id": "1",
             "description": "Hambúrguer",
             "type": "outcome",
-            "category": "Aliemntação",
+            "category": "Alimentação",
             "price": 50,
             "createAt": "2022-11-01:30:44.505Z"
         },
